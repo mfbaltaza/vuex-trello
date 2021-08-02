@@ -7,12 +7,12 @@
 </template>
 
 <script>
-import AppHeader from '@/components/AppHeader'
-import AppFooter from '@/components/AppFooter'
+import AppHeader from '@/components/AppHeader';
+import AppFooter from '@/components/AppFooter';
 
 export default {
   name: 'app',
-  components: {AppHeader, AppFooter}
+  components: { AppHeader, AppFooter },
 };
 </script>
 
